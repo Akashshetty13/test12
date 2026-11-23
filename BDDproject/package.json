@@ -1,0 +1,15 @@
+{
+  "name": "bddproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "@cucumber/cucumber": "^13.3.0",
+    "@playwright/test": "^1.65.1"
+  }
+}
